@@ -1,26 +1,3 @@
-login.js
-Who has access
-Not shared
-System properties
-Type
-Javascript
-Size
-2 KB
-Storage used
-2 KB
-Location
-web
-Owner
-me
-Modified
-Mar 6, 2022 by me
-Opened
-3:04 AM by me
-Created
-11:39 PM with Google Drive Web
-Add a description
-Viewers can download
-
 const mysql = require('mysql');
 const express = require('express');
 const session = require('express-session');
